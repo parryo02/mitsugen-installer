@@ -32,9 +32,10 @@ esac
 
 #test above code
 echo $systemChoice
+echo $packageMan
 
 #install git if not installed
-#maybe apt list --installed | grep git
+#maybe $packageMan list --installed | grep git
 
 #clone mitsugen if not in current directory
 if (ls mitsugen returns file not found)
