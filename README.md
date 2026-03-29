@@ -8,3 +8,4 @@ Run script:
 
 ```shell
 curl https://github.com/parryo02/mitsugen-installer | sh
+```
