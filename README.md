@@ -1,4 +1,4 @@
-# mitsugen-installer WIP 🚧
+# Mitsugen Installer WIP 🚧
 A shell script to install mitsugen. 
 
 I decided to make an install script for [mitsugen](https://github.com/DimitrisMilonopoulos/mitsugen), using Google Gemini's advice on how to install it on Debian 13 and Fedora 43.
