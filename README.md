@@ -7,4 +7,4 @@ I decided to make an install script for [mitsugen link], using Google Gemini's a
 Run script: 
 
 ```shell
-curl https://github.com/parryo02/mitsugen-installer | sh```
+curl https://github.com/parryo02/mitsugen-installer | sh
