@@ -9,5 +9,5 @@ Note: the script is currently nonexistent.
 Run script: 
 
 ```shell
-curl https://github.com/parryo02/mitsugen-installer/install-mitsugen.sh | sh
+curl -fsSL https://raw.githubusercontent.com/parryo02/mitsugen-installer/main/install-mitsugen.sh | bash
 ```
