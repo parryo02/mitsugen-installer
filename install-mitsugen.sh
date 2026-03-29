@@ -30,6 +30,9 @@ case "$systemChoice" in
         ;;
 esac
 
+#test above code
+echo $systemChoice
+
 #install git if not installed
 #maybe apt list --installed | grep git
 
