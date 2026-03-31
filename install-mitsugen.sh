@@ -168,3 +168,11 @@ gsettings set org.gnome.desktop.interface font-name "Google Sans 11"
 gsettings set org.gnome.desktop.interface document-font-name "Google Sans 11"
 gsettings set org.gnome.desktop.interface monospace-font-name "Google Sans Code 11"
 
+#Make mitsugen command to simplify usage
+echo "==> Creating mitsugen command for easy access..."
+sudo cp /Assets/mitsugenAlias /usr/local/bin/mitsugen
+sudo chmod +x /usr/local/bin/mitsugen
+
+#Add mitsugen .desktop entry
+echo "==> Adding Mitsugen .desktop entry..."
+sudo cp /Assets/mitsugen.desktop /usr/share/applications/mitsugen.desktop

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=mitsugen
+Comment=Material You Color Generator
+# This command runs the UI mode directly from your poetry environment
+Exec=/usr/bin/mitsugen
+Icon=preferences-desktop-wallpaper
+Terminal=false
+Type=Application
+Categories=Settings;GTK;
+Keywords=Material;Theme;Color;

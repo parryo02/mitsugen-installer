@@ -1,0 +1,3 @@
+#!/bin/bash
+exec /home/owenparry/.cache/pypoetry/virtualenvs/mitsugen-l-eGGRAV-py3.14/bin/python /home/owenparry/mitsugen/src/main.py --ui "$@"
+
